@@ -16,8 +16,8 @@
 
 To get started, ensure you have the following installed:
 
-- [Software/Tool 1](https://example.com)
-- [Software/Tool 2](https://example.com)
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ### Installation
 
