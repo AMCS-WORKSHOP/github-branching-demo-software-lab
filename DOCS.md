@@ -16,12 +16,11 @@
 
 To get started, ensure you have the following installed:
 
-- [Software/Tool 1](https://example.com)
-- [Software/Tool 2](https://example.com)
+- [git](https://git-scm.com/)
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/AMCS-WORKSHOP/github-branching-demo-software-lab.git
    ```
