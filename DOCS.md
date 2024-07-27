@@ -23,5 +23,5 @@ To get started, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/AMCS-WORKSHOP/github-branching-demo-software-lab.git
    ```
